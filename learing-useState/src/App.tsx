@@ -1,7 +1,7 @@
-import UseStateComponent from "../components/UseState.tsx";
+import UseEffectComponent from "./components/UseEffect"
 
 export default function App() {
   return (
-    <UseStateComponent />
+    <UseEffectComponent />
   )
 }
